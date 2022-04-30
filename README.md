@@ -13,3 +13,8 @@
 1. Download
 2. Go into your iTerm settings under Profiles &rarr; Colors &rarr; Color Presets and choose Import
 3. Import the file
+
+
+## Screenshots
+
+![](screenshots/sample-tig.png)
