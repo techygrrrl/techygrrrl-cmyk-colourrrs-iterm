@@ -1,5 +1,15 @@
-<h1 style="text-align: center">CMYK colourrrs</h1>
+<h1 align="center">CMYK colourrrs</h1>
 
-<img src="cmyk-logo.png" width="180" style="display: block; margin: 0 auto; width: 180px" />
+<p align="center">
+  <img src="cmyk-logo.png" width="180" style="display: inline-block; width: 180px" />
+</p>
 
-**CMYK colourrrs** for iTerm 2 is a dark colour theme.
+<p align="center">
+  <strong>CMYK colourrrs</strong> for iTerm 2 is a dark colour theme.
+</p>
+
+## Usage
+
+1. Download
+2. Go into your iTerm settings under Profiles &rarr; Colors &rarr; Color Presets and choose Import
+3. Import the file
